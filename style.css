@@ -1,0 +1,64 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.margin{
+    border: 30x solid orange;
+    width: 50%;
+    margin: 30px auto;
+
+}
+
+.content{
+
+     width: 100%;
+     height: 440px;
+     margin: 0 auto;
+     border-top: 37px solid rgb(38, 237, 237);
+     border-bottom: 37px solid rgb(38, 237, 237);
+     background-image: url("./assets/images/task1image.jpg");
+   
+}
+
+.padding{
+    border: 30px solid greenyellow;
+    border-top: 48px solid greenyellow;
+}
+
+
+.border{
+    border: 30px solid yellow;
+    border-top: 35px solid yellow;
+   
+}
+
+.margin{
+    border: 30px solid orange;
+   
+}
+
+#text1{
+   margin-top: -20px;
+   margin-left: -28px;
+}
+
+#text2{
+    margin-top: -24px;
+    margin-left: -28px;
+ }
+
+
+ #text3{
+    margin-top: -40px;
+    margin-left: -28px;
+ }
+
+ #text4{
+    margin-top: -20px;
+
+ }
+
+
